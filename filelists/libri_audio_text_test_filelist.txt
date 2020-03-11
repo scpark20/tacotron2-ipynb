@@ -1,0 +1,940 @@
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8141/925_8141_000007_000004.wav|We cannot help it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8141/925_8141_000007_000012.wav|And so look at this Perfect Character, this Perfect Life.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8141/925_8141_000007_000013.wav|Look at
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8141/925_8141_000014_000000.wav|"God loves me!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8141/925_8141_000014_000001.wav|God loves me!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8141/925_8141_000015_000004.wav|And there is no other way to get it. There is no mystery about it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000000_000001.wav|WHAT YOKES ARE FOR.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000001_000000.wav|There is still one doubt to clear up.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000001_000001.wav|After the statement, "Learn of Me," Christ throws in the disconcerting qualification:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000003_000003.wav|Is life not hard and sorrowful enough without being fettered with yet another yoke?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000001.wav|Did you ever stop to ask what a yoke is really for?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000002.wav|Is it to be a burden to the animal which wears it?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000003.wav|It is just the opposite.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000004.wav|It is to make its burden light.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000005.wav|Attached to the oxen in any other way than by a yoke, the plough would be intolerable.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000006.wav|Worked by means of a yoke, it is light.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000004_000007.wav|A yoke is not an instrument of torture; it is
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000006_000000.wav|It is not a malicious contrivance for making work hard; it is a gentle device to make hard labor light.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000006_000001.wav|It is not meant to give pain, but to save pain.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000007_000001.wav|It is the literal wooden yoke which He, with His own hands in the carpenter shop, had probably often made.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000000.wav|And what was the "burden"?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000002.wav|It was what all men bear.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000004.wav|Christ saw that men took life painfully.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000006.wav|How to carry this burden of life had been the whole world's problem.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000007.wav|It is still the whole world's problem.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000009.wav|Take life as I take it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000010.wav|Look at it from My point of view.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000011.wav|Interpret it upon My principles.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000008_000012.wav|Take My yoke and learn of Me, and you will find it easy.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000009_000001.wav|That would be to absolve him from living, since it is life itself that is the burden.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000009_000002.wav|What Christianity does propose is to make it tolerable.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000011_000002.wav|The harness they put on is antiquated.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000013_000001.wav|It has a perfectly miraculous gift of healing.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000014_000001.wav|Suppose the attraction of the earth were removed?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000014_000004.wav|What was a ton yesterday is not half a ton today.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000015_000001.wav|But let us be quite sure when we speak of Christianity that we mean Christ's Christianity.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/925/8157/925_8157_000015_000003.wav|For the most part their attainment is hopeless and the results wretched.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000001_000000.wav|Butter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000002_000000.wav|It is of the first importance that every thing connected with milk and butter should be kept clean; if the milk acquires an unpleasant taste, it communicates it to the butter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000002_000001.wav|Tin pans are best to keep milk in, and they should be painted on the outside to keep them from rusting when they are put in water.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000003_000001.wav|Butter will be spoiled by neglecting to stir the cream, a yellow scum will form on it, which gives it an unpleasant taste.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000005_000001.wav|The air of a well will keep butter sweet for several weeks in the hottest weather.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000005_000003.wav|It can be kept in this way as firm and sweet as in an ice house.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000008_000000.wav|To put up Butter for Winter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000009_000001.wav|It should be tied up with paper to exclude the air.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000012_000000.wav|When your butter is worked and salted in the usual way, and ready to put in the jars, use one ounce of this composition to every pound of butter, work it well into the mass.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000014_000000.wav|It will not do to use for a month, because earlier, the salts will not be sufficiently blended with it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000014_000001.wav|It should be kept in wooden vessels, or nice stone jars.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000014_000002.wav|Earthen ware jars are not suitable for butter, as during the decomposition of the salts, they corrode the glazing; and the butter becomes rancid and unhealthy.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000015_000001.wav|Thus in cities during warm weather butter is often cheap, a house keeper may then purchase her winter supply.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000016_000001.wav|It is very important to keep the butter in a cool place."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000017_000000.wav|A great deal depends on the butter being well worked.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000017_000002.wav|A large churning may be more effectually cleared of the butter milk in a few minutes, than in the old way in an hour.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000017_000003.wav|By doing it quickly, it does not get soft and oily in hot weather.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000018_000000.wav|A Pickle for Butter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000019_000001.wav|If the butter is good when put up in the fall, it will keep till you can get grass butter, in the spring.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000019_000002.wav|The jars for this purpose should not have been previously used for pickles.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000021_000000.wav|Persons living in the country sometimes have more milk than they can use, of which cheese may be made.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000023_000000.wav|Cheese made in this way has a rich, mild taste, and most persons are fond of it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000023_000001.wav|If you get eight gallons of milk a day, you may make cheese twice a week, and still have butter for the family.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000024_000000.wav|Pennsylvania Cream Cheese.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000025_000000.wav|The cheese called by this name is not in reality made of cream.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000026_000000.wav|To Prepare Rennet for making Whey or Cheese.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000028_000000.wav|Cottage Cheese or Smearcase.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000030_000000.wav|Roasting Coffee.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000032_000000.wav|White coffee need not be dried before roasting, and will do in less time.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000032_000003.wav|It will answer either for summer or winter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000032_000005.wav|Many persons use coffee roasters,--but some old experienced housekeepers think that the fine flavor flies off more than when done in a dutch oven, and constantly stirred.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000033_000000.wav|If you are careful, it can be done very well in the dripping pan of a stove.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000033_000002.wav|Coffee may be roasted in a dripping pan in a brick oven.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000033_000004.wav|If you have a large family, by using several pans, six pounds of coffee can thus be roasted, and but little time spent on it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000034_000000.wav|Boiling Coffee.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000035_000001.wav|If you boil coffee too long, the aromatic flavor flies off.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000037_000000.wav|Always be sure that the kettle is boiling when you make tea, or the flavor will not be so good, scald the pot, and allow a tea spoonful for each person.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000037_000002.wav|Persons with weak nerves should never drink strong tea and coffee.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000037_000004.wav|Before pouring out tea, it should be stirred with a spoon that the strength of each cup may be alike.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000038_000000.wav|Milk is the best drink for children, but if that cannot be had, sweetened water, with a little milk, will do.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/123172/93_123172_000039_000000.wav|A New Mode of Preparing Chocolate.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000001_000000.wav|one.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000001_000001.wav|The Master said, Love makes a spot beautiful: who chooses not to dwell in love, has he got wisdom?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000002_000001.wav|The Master said, Loveless men cannot bear need long, they cannot bear fortune long.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000003_000000.wav|three.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000005_000000.wav|five.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000007_000000.wav|six.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000008_000001.wav|The Master said, A man and his faults are of a piece.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000008_000002.wav|By watching his faults we learn whether love be his.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000009_000000.wav|eight.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000010_000000.wav|nine.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000012_000000.wav|ten.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000012_000002.wav|He follows right.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000013_000000.wav|eleven.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000014_000000.wav|twelve.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000014_000001.wav|The Master said, The chase of gain is rich in hate.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000015_000000.wav|thirteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000015_000001.wav|The Master said, What is it to sway a kingdom by courteous yielding?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000016_000000.wav|fourteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000017_000000.wav|fifteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000019_000000.wav|Yes, said Tseng tzu.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000020_000000.wav|After the Master had left, the disciples asked what was meant.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000022_000000.wav|sixteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000024_000000.wav|eighteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000025_000000.wav|nineteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000025_000002.wav|If thou must travel, hold a set course.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000026_000000.wav|twenty.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000027_000000.wav|twenty one.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000029_000000.wav|twenty three.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000030_000000.wav|twenty four.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124557/93_124557_000031_000000.wav|twenty five.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000002_000000.wav|one.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000007_000000.wav|three.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000007_000001.wav|Tzu kung asked, And what of me?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000008_000000.wav|Thou art a vessel, said the Master.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000009_000000.wav|What kind of vessel?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000010_000000.wav|A rich temple vessel.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000011_000000.wav|four.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000015_000000.wav|five.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000018_000000.wav|six.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000019_000000.wav|When Tzu lu heard this he was glad.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000021_000000.wav|seven.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000029_000000.wav|eight.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000032_000000.wav|nine.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000038_000001.wav|Why chide with Yue?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000039_000002.wav|I righted this on Yue.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000040_000000.wav|ten.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000040_000001.wav|The Master said, I have met no firm man.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000046_000000.wav|thirteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000047_000000.wav|fourteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000050_000000.wav|sixteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000051_000000.wav|seventeen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000052_000000.wav|eighteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000053_000000.wav|He was faithful, said the Master.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000055_000000.wav|I do not know, said the Master: how should this amount to love?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000056_000001.wav|On coming to another kingdom he said, 'Like my lord Ts'ui,' and left it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000059_000000.wav|I do not know, said the Master: how should this amount to love?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000060_000000.wav|nineteen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000060_000001.wav|Chi Wen thought thrice before acting.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000062_000000.wav|twenty.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000064_000000.wav|twenty one.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000065_000000.wav|twenty two.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000066_000000.wav|twenty three.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000067_000000.wav|twenty four.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/124558/93_124558_000068_000000.wav|twenty five.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000003_000000.wav|In the course of a month or two after the receipt of the books jude had grown callous to the shabby trick played him by the dead languages.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000003_000001.wav|In fact, his disappointment at the nature of those tongues had, after a while, been the means of still further glorifying the erudition of Christminster.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000006_000000.wav|The only copies he had been able to lay hands on were old Delphin editions, because they were superseded, and therefore cheap.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000006_000003.wav|And though jude may have had little chance of becoming a scholar by these rough and ready means, he was in the way of getting into the groove he wished to follow.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000008_000003.wav|The policeman thereupon lay in wait for jude, and one day accosted him and cautioned him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000010_000002.wav|The sun was going down, and the full moon was rising simultaneously behind the woods in the opposite quarter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000012_000000.wav|The horse stood still till he had finished the hymn, which jude repeated under the sway of a polytheistic fancy that he would never have thought of humouring in broad daylight.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000013_000001.wav|It had all come of reading heathen works exclusively.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000013_000002.wav|The more he thought of it the more convinced he was of his inconsistency.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000013_000003.wav|He began to wonder whether he could be reading quite the right books for his object in life.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000013_000004.wav|Certainly there seemed little harmony between this pagan literature and the mediaeval colleges at Christminster, that ecclesiastical romance in stone.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000014_000001.wav|He had dabbled in Clarke's Homer, but had never yet worked much at the New Testament in the Greek, though he possessed a copy, obtained by post from a second-hand bookseller.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000015_000000.wav|As another outcome of this change of groove he visited on Sundays all the churches within a walk, and deciphered the Latin inscriptions on fifteenth century brasses and tombs.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000016_000000.wav|But how live in that city?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000016_000001.wav|At present he had no income at all.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000016_000002.wav|He had no trade or calling of any dignity or stability whatever on which he could subsist while carrying out an intellectual labour which might spread over many years.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000017_000000.wav|What was most required by citizens?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000017_000002.wav|They built in a city; therefore he would learn to build.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000017_000004.wav|He could not go far wrong in following his uncle's footsteps, and engaging himself awhile with the carcases that contained the scholar souls.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126208/93_126208_000020_000001.wav|He now had lodgings during the week in the little town, whence he returned to Marygreen village every Saturday evening.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000003_000000.wav|He was in an enthusiastic mood.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000003_000002.wav|He might, of course, have gone there now, in some capacity or other, but he preferred to enter the city with a little more assurance as to means than he could be said to feel at present.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000003_000003.wav|A warm self content suffused him when he considered what he had already done.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000003_000004.wav|Now and then as he went along he turned to face the peeps of country on either side of him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000005_000002.wav|I wish there was only one dialect all the same.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000006_000000.wav|"I have done some mathematics, including the first six and the eleventh and twelfth books of Euclid; and algebra as far as simple equations.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000007_000000.wav|"I know something of the Fathers, and something of Roman and English history.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000008_000000.wav|"These things are only a beginning.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000010_000000.wav|And then he continued to dream, and thought he might become even a bishop by leading a pure, energetic, wise, Christian life.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000010_000001.wav|And what an example he would set!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000010_000003.wav|Well, on second thoughts, a bishop was absurd.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000010_000005.wav|Perhaps a man could be as good and as learned and as useful in the capacity of archdeacon as in that of bishop.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000010_000006.wav|Yet he thought of the bishop again.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000012_000001.wav|Hoity toity!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000012_000002.wav|The sounds were expressed in light voices on the other side of the hedge, but he did not notice them. His thoughts went on:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000014_000000.wav|"Hoity toity!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000015_000000.wav|"--but I can work hard.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000015_000001.wav|I have staying power in abundance, thank God! and it is that which tells....
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000015_000002.wav|Yes, Christminster shall be my Alma Mater; and I'll be her beloved son, in whom she shall be well pleased."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000016_000001.wav|On a sudden something smacked him sharply in the ear, and he became aware that a soft cold substance had been flung at him, and had fallen at his feet.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000017_000001.wav|Pigs were rather plentiful hereabout, being bred and fattened in large numbers in certain parts of North Wessex.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000018_000000.wav|On the other side of the hedge was a stream, whence, as he now for the first time realized, had come the slight sounds of voices and laughter that had mingled with his dreams.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000018_000001.wav|He mounted the bank and looked over the fence.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000019_000000.wav|"Thank you!" said jude severely.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000020_000000.wav|"I DIDN'T throw it, I tell you!" asserted one girl to her neighbour, as if unconscious of the young man's presence.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000021_000000.wav|"Nor I," the second answered.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000022_000000.wav|"Oh, Anny, how can you!" said the third.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000023_000000.wav|"If I had thrown anything at all, it shouldn't have been THAT!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000024_000001.wav|I don't care for him!" And they laughed and continued their work, without looking up, still ostentatiously accusing each other.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000025_000000.wav|jude grew sarcastic as he wiped his face, and caught their remarks.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000026_000000.wav|"YOU didn't do it-oh no!" he said to the up stream one of the three.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000027_000000.wav|She whom he addressed was a fine dark eyed girl, not exactly handsome, but capable of passing as such at a little distance, despite some coarseness of skin and fibre.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000027_000001.wav|She had a round and prominent bosom, full lips, perfect teeth, and the rich complexion of a Cochin hen's egg.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000029_000000.wav|"Whoever did it was wasteful of other people's property."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000030_000000.wav|"Oh, that's nothing."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000031_000000.wav|"But you want to speak to me, I suppose?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000032_000000.wav|"Oh yes; if you like to."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000033_000000.wav|"Shall I clamber across, or will you come to the plank above here?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000035_000000.wav|Springing to her feet, she said: "Bring back what is lying there."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000036_000000.wav|jude was now aware that no message on any matter connected with her father's business had prompted her signal to him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000036_000001.wav|He set down his basket of tools, picked up the scrap of offal, beat a pathway for himself with his stick, and got over the hedge.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000036_000002.wav|They walked in parallel lines, one on each bank of the stream, towards the small plank bridge.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000036_000004.wav|This production of dimples at will was a not unknown operation, which many attempted, but only a few succeeded in accomplishing.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000040_000000.wav|"Oh no"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000041_000000.wav|"We are doing this for my father, who naturally doesn't want anything thrown away.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000041_000001.wav|He makes that into dubbin." She nodded towards the fragment on the grass.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000042_000000.wav|"What made either of the others throw it, I wonder?" jude asked, politely accepting her assertion, though he had very large doubts as to its truth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000043_000000.wav|"Impudence.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000043_000001.wav|Don't tell folk it was I, mind!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000046_000000.wav|"Do!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000047_000000.wav|"Arabella Donn.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000047_000001.wav|I'm living here."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000048_000000.wav|"I must have known it if I had often come this way.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000048_000001.wav|But I mostly go straight along the high road."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000049_000000.wav|"My father is a pig breeder, and these girls are helping me wash the innerds for black puddings and such like."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000050_000000.wav|They talked a little more and a little more, as they stood regarding each other and leaning against the hand rail of the bridge.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000051_000000.wav|"What a nice looking girl you are!" he murmured, though the words had not been necessary to express his sense of her magnetism.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000053_000000.wav|"I don't suppose I could?" he answered
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000054_000000.wav|"That's for you to think on.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000054_000001.wav|There's nobody after me just now, though there med be in a week or two." She had spoken this without a smile, and the dimples disappeared.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000055_000000.wav|jude felt himself drifting strangely, but could not help it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000055_000001.wav|"Will you let me?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000056_000000.wav|"I don't mind."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000057_000001.wav|"Next Sunday?" he hazarded. "To morrow, that is?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000058_000000.wav|"Yes."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000059_000000.wav|"Shall I call?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000060_000000.wav|"Yes."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000062_000000.wav|jude Fawley shouldered his tool basket and resumed his lonely way, filled with an ardour at which he mentally stood at gaze.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000063_000003.wav|He was to meet this enkindling one of the other sex on the following Sunday.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000064_000000.wav|Meanwhile the girl had joined her companions, and she silently resumed her flicking and sousing of the chitterlings in the pellucid stream.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000066_000000.wav|"I don't know.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000067_000000.wav|"Lord! he's nobody, though you med think so.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000067_000002.wav|Since then he's been very stuck up, and always reading.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000067_000003.wav|He wants to be a scholar, they say."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000068_000001.wav|Don't you think it, my child!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000069_000000.wav|"Oh, don't ye!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/93/126209/93_126209_000069_000003.wav|Whether you do or whether you don't, he's as simple as a child.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000001_000000.wav|It is dark here in the forest.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000001_000002.wav|The moss is soft and warm.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000001_000004.wav|We have no bed now, save the moss, and no future, save the beasts.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000002_000001.wav|No men stopped us at the gate.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000004_000002.wav|It is true that our tunic was torn and stained with brown stains which had been blood. We raised our right arm and we said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000007_000000.wav|"Who are you, our brother?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000007_000001.wav|For you do not look like a Scholar."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000009_000000.wav|Then it was as if a great wind had stricken the hall, for all the Scholars spoke at once, and they were angry and frightened.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000010_000000.wav|"A Street Sweeper!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000010_000003.wav|It is against all the rules and all the laws!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000014_000001.wav|We spoke of it, and of our long quest, and of our tunnel, and of our escape from the Palace of Corrective Detention.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000014_000003.wav|Then we put the wires to the box, and they all bent forward and sat still, watching.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000014_000005.wav|And slowly, slowly as a flush of blood, a red flame trembled in the wire. Then the wire glowed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000015_000000.wav|But terror struck the men of the Council.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000017_000002.wav|It is yours.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000017_000003.wav|We give it to you."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000018_000000.wav|Still they would not move.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000020_000000.wav|But they looked upon us, and suddenly we were afraid.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000022_000001.wav|They moved to the table and the others followed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000032_000003.wav|We do not care.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000032_000004.wav|But the light?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000032_000005.wav|What will you do with the light?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000041_000002.wav|We cannot alter the Plans again so soon."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000046_000000.wav|"It must be destroyed!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000049_000000.wav|"You fools!" we cried.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000049_000002.wav|You thrice damned fools!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000051_000000.wav|We fell, but we never let the box fall from our hands.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000051_000004.wav|But we ran.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000052_000002.wav|Then we knew.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000052_000003.wav|We were in the Uncharted Forest.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000053_000001.wav|We crawled to it, we fell upon it, our face in our arms, and we lay still.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000054_000000.wav|We lay thus for a long time.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000054_000001.wav|Then we rose, we took our box and walked on into the forest.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000055_000000.wav|It mattered not where we went.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000055_000002.wav|We had nothing to fear from them. The forest disposes of its own victims.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000055_000004.wav|So we walked on, our box in our arms, our heart empty.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000056_000001.wav|Whatever days are left to us, we shall spend them alone. And we have heard of the corruption to be found in solitude.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000057_000000.wav|We know these things, but we do not care.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000057_000001.wav|We care for nothing on earth. We are tired.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000058_000002.wav|We have not built this box for the good of our brothers.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000058_000003.wav|We built it for its own sake.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000059_000000.wav|Then a blow of pain struck us, our first and our only.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000059_000001.wav|We thought of the Golden One.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132705/948_132705_000059_000003.wav|It is best.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000002_000001.wav|We hid in the bushes, and we waited.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000002_000002.wav|The steps came closer.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000002_000003.wav|And then we saw the fold of a white tunic among the trees, and a gleam of gold.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000004_000001.wav|And they could not speak.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000007_000000.wav|But they whispered only:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000018_000000.wav|Then they knelt, and bowed their golden head before us.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000019_000000.wav|We had never thought of that which we did.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000019_000001.wav|We bent to raise the Golden One to their feet, but when we touched them, it was as if madness had stricken us.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000019_000003.wav|The Golden One breathed once, and their breath was a moan, and then their arms closed around us.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000020_000000.wav|We stood together for a long time.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000022_000001.wav|Fear nothing of the forest.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000022_000002.wav|There is no danger in solitude.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000022_000005.wav|Give us your hand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000025_000000.wav|We have walked for many days.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000026_000002.wav|At night, we choose a clearing, and we build a ring of fires around it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000026_000003.wav|We sleep in the midst of that ring, and the beasts dare not attack us.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000026_000005.wav|The fires smoulder as a crown of jewels around us, and smoke stands still in the air, in columns made blue by the moonlight.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000026_000006.wav|We sleep together in the midst of the ring, the arms of the Golden One around us, their head upon our breast.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000027_000000.wav|Some day, we shall stop and build a house, when we shall have gone far enough.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000029_000000.wav|We go on and we bless the earth under our feet.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000029_000001.wav|But questions come to us again, as we walk in silence.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000029_000003.wav|If this is the great evil of being alone, then what is good and what is evil?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000031_000001.wav|But we lived not, when we toiled for our brothers, we were only weary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000031_000005.wav|Thus do we wonder.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000032_000001.wav|What is that error?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000032_000002.wav|We do not know, but the knowledge struggles within us, struggles to be born.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000036_000000.wav|They were silent, then they spoke slowly, and their words were halting, like the words of a child learning to speak for the first time:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132707/948_132707_000038_000000.wav|We looked into each other's eyes and we knew that the breath of a miracle had touched us, and fled, and left us groping vainly.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000001_000001.wav|I wept in deliverance and in pity for all mankind.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000002_000001.wav|I understood why the best in me had been my sins and my transgressions; and why I had never felt guilt in my sins.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000002_000002.wav|I understood that centuries of chains and lashes will not kill the spirit of man nor the sense of truth within him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000003_000001.wav|Then I called the Golden One, and I told her what I had read and what I had learned.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000003_000002.wav|She looked at me and the first words she spoke were:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000004_000000.wav|"I love you."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000006_000000.wav|"My dearest one, it is not proper for men to be without names.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000006_000001.wav|There was a time when each man had a name of his own to distinguish him from all other men.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000006_000005.wav|And he suffered for his deed as all bearers of light must suffer.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000008_000001.wav|Her name was Gaea.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000008_000002.wav|Let this be your name, my Golden One, for you are to be the mother of a new kind of gods."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000010_000000.wav|Now I look ahead.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000012_000003.wav|I have found the engine which produced this light. I shall learn how to repair it and how to make it work again.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000012_000004.wav|I shall learn how to use the wires which carry this power.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000012_000006.wav|For they have nothing to fight me with, save the brute force of their numbers.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000012_000007.wav|I have my mind.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000013_000000.wav|Then here, on this mountaintop, with the world below me and nothing above me but the sun, I shall live my own truth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000013_000001.wav|Gaea is pregnant with my child.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000013_000003.wav|He will be taught to say "I" and to bear the pride of it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000015_000001.wav|And as I stand here at the door of glory, I look behind me for the last time.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000015_000004.wav|Freedom from what?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000015_000007.wav|That is freedom.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000016_000001.wav|But he broke their chains.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000016_000002.wav|Then he was enslaved by the kings.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000016_000003.wav|But he broke their chains.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000016_000004.wav|He was enslaved by his birth, by his kin, by his race.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000016_000005.wav|But he broke their chains.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000017_000000.wav|But then he gave up all he had won, and fell lower than his savage beginning.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000018_000000.wav|What brought it to pass?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000018_000002.wav|What whip lashed them to their knees in shame and submission?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000019_000002.wav|Thus did all thought, all science, all wisdom perish on earth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000021_000000.wav|Perhaps, in those days, there were a few among men, a few of clear sight and clean soul, who refused to surrender that word.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000021_000001.wav|What agony must have been theirs before that which they saw coming and could not stop! Perhaps they cried out in protest and in warning.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000021_000004.wav|And they chose to perish, for they knew.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000021_000005.wav|To them, I send my salute across the centuries, and my pity.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000022_000001.wav|And I wish I had the power to tell them that the despair of their hearts was not to be final, and their night was not without hope.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000022_000003.wav|For that which they died to save can never perish.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000022_000004.wav|Through all the darkness, through all the shame of which men are capable, the spirit of man will remain alive on this earth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000022_000005.wav|It may sleep, but it will awaken.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000022_000006.wav|It may wear chains, but it will break through.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000022_000008.wav|Man, not men.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000023_000001.wav|And it will become as the heart of the earth, lost and hidden at first, but beating, beating louder each day.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000023_000004.wav|And all my brothers, and the Councils of my brothers, will hear of it, but they will be impotent against me.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000024_000001.wav|For the freedom of Man.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000024_000002.wav|For his rights.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000024_000003.wav|For his life.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000024_000004.wav|For his honor.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000025_000001.wav|The word which will not die, should we all perish in battle.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/948/132710/948_132710_000026_000000.wav|The sacred word:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/134657/949_134657_000002_000008.wav|But that youth was the son of Marcellus, the general of cavalry, who, in the first campaign of the Gallic war, had deserted the standard of the Caesar and the republic.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/134657/949_134657_000005_000005.wav|On the calends of January, at break of day, the new consuls, Mamertinus and Nevitta, hastened to the palace to salute the emperor.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/134657/949_134657_000005_000007.wav|From the palace they proceeded to the senate.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/134660/949_134660_000010_000003.wav|They fixed, by unquestionable tradition, the scene of each memorable event.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000002_000000.wav|THE PROCESS OF COLONIZATION
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000003_000001.wav|It involved the use of capital to pay for their passage, to sustain them on the voyage, and to start them on the way of production.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000003_000002.wav|Under this stern economic necessity, Puritans, Scotch Irish, Germans, and all were alike laid.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000004_000005.wav|For the present it is an unsolved problem just how many of the colonists were able to bear the cost of their own transfer to the New World.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000005_000001.wav|The great barrier in the way of the poor who wanted to go to America was the cost of the sea voyage.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000005_000003.wav|This system was called indentured servitude.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000006_000000.wav|It is probable that the number of bond servants exceeded the original twenty thousand Puritans, the yeomen, the Virginia gentlemen, and the Huguenots combined.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000006_000002.wav|In the proprietary colonies the proportion of bond servants was very high.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000006_000005.wav|In Pennsylvania, it was not uncommon to find a master with fifty bond servants on his estate.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000007_000000.wav|The story of this traffic in white servants is one of the most striking things in the history of labor.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000007_000002.wav|Still they were subject to many special disabilities.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000008_000001.wav|A bondman could not marry without his master's consent; nor engage in trade; nor refuse work assigned to him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000009_000001.wav|When their weary years of servitude were over, if they survived, they might obtain land of their own or settle as free mechanics in the towns.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000009_000003.wav|For thousands, on the contrary, bondage proved to be a real avenue to freedom and prosperity.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000010_000002.wav|Many of the victims of the practice were young children, for the traffic in them was highly profitable.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000011_000000.wav|In this gruesome business there lurked many tragedies, and very few romances.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000011_000001.wav|Parents were separated from their children and husbands from their wives.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000011_000002.wav|Hundreds of skilled artisans-carpenters, smiths, and weavers-utterly disappeared as if swallowed up by death.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000011_000004.wav|In one case a young man who was forcibly carried over the sea lived to make his way back to England and establish his claim to a peerage.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000012_000003.wav|Other transported offenders were "political criminals"; that is, persons who criticized or opposed the government.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000013_000001.wav|When this form of bondage was first introduced into Virginia in sixteen nineteen, it was looked upon as a temporary necessity to be discarded with the increase of the white population.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000013_000002.wav|Moreover it does not appear that those planters who first bought negroes at the auction block intended to establish a system of permanent bondage.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000013_000003.wav|Only by a slow process did chattel slavery take firm root and become recognized as the leading source of the labor supply.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000013_000004.wav|In sixteen fifty, thirty years after the introduction of slavery, there were only three hundred Africans in Virginia.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000014_000000.wav|The great increase in later years was due in no small measure to the inordinate zeal for profits that seized slave traders both in Old and in New England.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000014_000001.wav|Finding it relatively easy to secure negroes in Africa, they crowded the Southern ports with their vessels.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000014_000002.wav|The English Royal African Company sent to America annually between seventeen thirteen and seventeen forty three from five to ten thousand slaves.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000014_000003.wav|The ship owners of New England were not far behind their English brethren in pushing this extraordinary traffic.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000015_000002.wav|This effort was futile, for the royal governor promptly vetoed it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000015_000003.wav|From time to time similar bills were passed, only to meet with royal disapproval.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000015_000004.wav|South Carolina, in seventeen sixty, absolutely prohibited importation; but the measure was killed by the British crown.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000016_000000.wav|All such protests were without avail.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000016_000001.wav|The negro population grew by leaps and bounds, until on the eve of the Revolution it amounted to more than half a million.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000016_000002.wav|In five states-Maryland, Virginia, the two Carolinas, and Georgia-the slaves nearly equalled or actually exceeded the whites in number.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000016_000003.wav|In South Carolina they formed almost two thirds of the population.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000016_000005.wav|To the North, the proportion of slaves steadily diminished although chattel servitude was on the same legal footing as in the South.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000017_000000.wav|The climate, the soil, the commerce, and the industry of the North were all unfavorable to the growth of a servile population.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000017_000001.wav|Still, slavery, though sectional, was a part of the national system of economy.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/138545/949_138545_000017_000002.wav|Northern ships carried slaves to the Southern colonies and the produce of the plantations to Europe.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/162667/949_162667_000014_000004.wav|Each of these, after the death of Theodosius, determined not to be governors merely, but to assume sovereign dominion over their respective provinces.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/162667/949_162667_000017_000008.wav|This, as will be related in its place, caused the origin of Venice.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/162667/949_162667_000018_000003.wav|Tempted by the hope of booty, he came immediately, and finding Rome abandoned, plundered the city during fourteen days.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/162667/949_162667_000018_000004.wav|He also ravaged many other places in Italy, and then, loaded with wealth, withdrew to Africa.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/949/162667/949_162667_000018_000005.wav|The romans, having returned to their city, and Maximus being dead, elected Avitus, a Roman, as his successor.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000000_000000.wav|CHAPTER four.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000002_000000.wav|Then we discussed the food question.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000002_000001.wav|George said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000005_000000.wav|We had taken up an oil stove once, but "never again." It had been like living in an oil shop that week.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000007_000000.wav|We tried to get away from it at Marlow.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000007_000001.wav|We left the boat by the bridge, and took a walk through the town to escape it, but it followed us.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000007_000002.wav|The whole town was full of oil.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000007_000004.wav|The High Street stunk of oil; we wondered how people could live in it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000007_000005.wav|And we walked miles upon miles out Birmingham way; but it was no use, the country was steeped in oil.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000009_000000.wav|Therefore, in the present instance, we confined ourselves to methylated spirit.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000009_000001.wav|Even that is bad enough.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000009_000002.wav|You get methylated pie and methylated cake.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000009_000003.wav|But methylated spirit is more wholesome when taken into the system in large quantities than paraffine oil.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000010_000000.wav|For other breakfast things, George suggested eggs and bacon, which were easy to cook, cold meat, tea, bread and butter, and jam.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000010_000002.wav|Cheese, like oil, makes too much of itself.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000010_000003.wav|It wants the whole boat to itself.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000010_000004.wav|It goes through the hamper, and gives a cheesy flavour to everything else there.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000010_000005.wav|You can't tell whether you are eating apple pie or German sausage, or strawberries and cream.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000010_000007.wav|There is too much odour about cheese.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000012_000000.wav|"Oh, with pleasure, dear boy," I replied, "with pleasure."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000013_000000.wav|I called for the cheeses, and took them away in a cab.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000013_000003.wav|There, the wind carried a whiff from the cheeses full on to our steed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000013_000004.wav|It woke him up, and, with a snort of terror, he dashed off at three miles an hour.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000015_000000.wav|I took my ticket, and marched proudly up the platform, with my cheeses, the people falling back respectfully on either side.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000015_000001.wav|The train was crowded, and I had to get into a carriage where there were already seven other people.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000016_000000.wav|A few moments passed, and then the old gentleman began to fidget.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000018_000000.wav|"Quite oppressive," said the man next him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000022_000000.wav|"What's yours?" I said, turning to my friend.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000023_000000.wav|"I'll have half a crown's worth of brandy, neat, if you please, miss," he responded.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000025_000002.wav|And they would run along, carrying heavy bags, and fight round the door to get in first.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000026_000000.wav|From Euston, I took the cheeses down to my friend's house.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000026_000001.wav|When his wife came into the room she smelt round for an instant.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000026_000002.wav|Then she said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000027_000000.wav|"What is it?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000027_000001.wav|Tell me the worst."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000028_000000.wav|I said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000029_000000.wav|"It's cheeses.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000029_000001.wav|Tom bought them in Liverpool, and asked me to bring them up with me."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000031_000000.wav|My friend was detained in Liverpool longer than he expected; and, three days later, as he hadn't returned home, his wife called on me.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000031_000001.wav|She said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000032_000000.wav|"What did Tom say about those cheeses?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000033_000000.wav|I replied that he had directed they were to be kept in a moist place, and that nobody was to touch them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000034_000000.wav|She said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000035_000000.wav|"Nobody's likely to touch them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000035_000001.wav|Had he smelt them?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000037_000000.wav|"You think he would be upset," she queried, "if I gave a man a sovereign to take them away and bury them?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000040_000000.wav|"Do you mind keeping them for him?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000040_000001.wav|Let me send them round to you."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000041_000001.wav|But, in this world, we must consider others.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000042_000000.wav|"Very well, then," said my friend's wife, rising, "all I have to say is, that I shall take the children and go to an hotel until those cheeses are eaten.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000044_000003.wav|They said it made them feel quite faint.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000044_000004.wav|And, after that, he took them one dark night and left them in the parish mortuary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000044_000005.wav|But the coroner discovered them, and made a fearful fuss.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000045_000000.wav|He said it was a plot to deprive him of his living by waking up the corpses.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000046_000000.wav|My friend got rid of them, at last, by taking them down to a sea side town, and burying them on the beach.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000046_000001.wav|It gained the place quite a reputation.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000046_000002.wav|Visitors said they had never noticed before how strong the air was, and weak chested and consumptive people used to throng there for years afterwards.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000047_000000.wav|Fond as I am of cheese, therefore, I hold that George was right in declining to take any.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000049_000000.wav|Harris grew more cheerful.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000049_000001.wav|George suggested meat and fruit pies, cold meat, tomatoes, fruit, and green stuff.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000050_000000.wav|It seemed to me that George harped too much on the getting upset idea. It seemed to me the wrong spirit to go about the trip in.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000051_000000.wav|But I'm glad we took the whisky.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000052_000001.wav|They are a mistake up the river.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000052_000002.wav|They make you feel sleepy and heavy.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000053_000001.wav|The next day, which was Friday, we got them all together, and met in the evening to pack.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000053_000002.wav|We got a big Gladstone for the clothes, and a couple of hampers for the victuals and the cooking utensils.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000054_000000.wav|I said I'd pack.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000055_000000.wav|I rather pride myself on my packing.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000055_000003.wav|George put on a pipe and spread himself over the easy chair, and Harris cocked his legs on the table and lit a cigar.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000056_000002.wav|Their taking it in the way they did irritated me.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000057_000003.wav|He said it made him feel that life was not an idle dream to be gaped and yawned through, but a noble task, full of duty and stern work.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000058_000003.wav|It is my energetic nature. I can't help it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000059_000000.wav|However, I did not say anything, but started the packing.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000060_000000.wav|"Ain't you going to put the boots in?" said Harris.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000061_000000.wav|And I looked round, and found I had forgotten them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000061_000001.wav|That's just like Harris.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000061_000002.wav|He couldn't have said a word until I'd got the bag shut and strapped, of course.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000061_000003.wav|And George laughed-one of those irritating, senseless, chuckle headed, crack jawed laughs of his.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000061_000004.wav|They do make me so wild.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000062_000000.wav|I opened the bag and packed the boots in; and then, just as I was going to close it, a horrible idea occurred to me.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000063_000000.wav|My tooth brush is a thing that haunts me when I'm travelling, and makes my life a misery.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000063_000001.wav|I dream that I haven't packed it, and wake up in a cold perspiration, and get out of bed and hunt for it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000064_000001.wav|I rummaged the things up into much the same state that they must have been before the world was created, and when chaos reigned.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000064_000002.wav|Of course, I found George's and Harris's eighteen times over, but I couldn't find my own.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000064_000003.wav|I put the things back one by one, and held everything up and shook it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000064_000004.wav|Then I found it inside a boot. I repacked once more.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000065_000000.wav|When I had finished, George asked if the soap was in.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000066_000000.wav|They began in a light-hearted spirit, evidently intending to show me how to do it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000066_000001.wav|I made no comment; I only waited.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000067_000000.wav|It did.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000067_000001.wav|They started with breaking a cup.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000068_000000.wav|Then Harris packed the strawberry jam on top of a tomato and squashed it, and they had to pick out the tomato with a teaspoon.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000069_000003.wav|I felt that.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000070_000001.wav|I never saw two men do more with one and twopence worth of butter in my whole life than they did.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000070_000002.wav|After George had got it off his slipper, they tried to put it in the kettle.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000071_000000.wav|"I'll take my oath I put it down on that chair," said George, staring at the empty seat.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000074_000000.wav|"Most extraordinary thing I ever heard of," said George.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000075_000000.wav|"So mysterious!" said Harris.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000076_000000.wav|Then George got round at the back of Harris and saw it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000078_000000.wav|"Where?" cried Harris, spinning round.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000079_000000.wav|"Stand still, can't you!" roared George, flying after him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000080_000000.wav|And they got it off, and packed it in the teapot.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000081_000000.wav|Montmorency was in it all, of course.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000084_000000.wav|Harris said I encouraged him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000084_000002.wav|A dog like that don't want any encouragement.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000084_000003.wav|It's the natural, original sin that is born in him that makes him do things like that.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000085_000004.wav|Harris was to sleep with us that night, and we went upstairs.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000086_000001.wav|He said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000087_000000.wav|"Do you prefer the inside or the outside, j?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000090_000000.wav|George said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000092_000000.wav|Harris said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000093_000000.wav|"Seven."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000095_000000.wav|"No-six," because I wanted to write some letters.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/953/130625/953_130625_000096_000000.wav|Harris and I had a bit of a row over it, but at last split the difference, and said half past six.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000010_000001.wav|Gadzooks, gramercy."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000012_000000.wav|Speaking of oak staircases reminds me that there is a magnificent carved oak staircase in one of the houses in Kingston.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000012_000001.wav|It is a shop now, in the market place, but it was evidently once the mansion of some great personage.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000013_000001.wav|My friend said he would, and the shopman, thereupon, took him through the shop, and up the staircase of the house.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000014_000000.wav|From the stairs, they went into the drawing room, which was a large, bright room, decorated with a somewhat startling though cheerful paper of a blue ground.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000014_000002.wav|The proprietor went up to the paper, and tapped it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000014_000003.wav|It gave forth a wooden sound.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000015_000000.wav|"Oak," he explained.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000017_000002.wav|But the room looks cheerful now.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000018_000003.wav|It would be like living in a church.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000020_000000.wav|Married men have wives, and don't seem to want them; and young single fellows cry out that they can't get them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000020_000002.wav|Rich old couples, with no one to leave their money to, die childless.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000022_000000.wav|It does not do to dwell on these things; it makes one so sad.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000023_000002.wav|I believe he really liked study.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000024_000000.wav|Well, that boy used to get ill about twice a week, so that he couldn't go to school.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000030_000001.wav|Will the prized treasures of to day always be the cheap trifles of the day before?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000031_000002.wav|It is a white dog.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000031_000003.wav|Its eyes blue.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000031_000007.wav|Thoughtless friends jeer at it, and even my landlady herself has no admiration for it, and excuses its presence by the circumstance that her aunt gave it to her.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000033_000001.wav|We are too familiar with it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000033_000003.wav|So it is with that china dog.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000036_000001.wav|I said, pleasantly enough:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000038_000000.wav|"What's that for?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000038_000001.wav|Why-"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000041_000000.wav|But, there, I don't suppose I should really care for it when it came to actual practice.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000043_000004.wav|It was a country cousin that Harris took in.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000043_000005.wav|He said:
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000045_000001.wav|They said it was very kind of him, and fell behind, and followed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000046_000000.wav|They picked up various other people who wanted to get it over, as they went along, until they had absorbed all the persons in the maze.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000050_000003.wav|That made Harris mad, and he produced his map, and explained his theory.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000051_000000.wav|"The map may be all right enough," said one of the party, "if you know whereabouts in it we are now."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000052_000000.wav|Harris didn't know, and suggested that the best thing to do would be to go back to the entrance, and begin again.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000054_000000.wav|Anyhow, they had got something to start from then.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000055_000000.wav|And three minutes later they were back in the centre again.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000056_000001.wav|Whatever way they turned brought them back to the middle.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000056_000002.wav|It became so regular at length, that some of the people stopped there, and waited for the others to take a walk round, and come back to them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/954/130627/954_130627_000056_000003.wav|Harris drew out his map again, after a while, but the sight of it only infuriated the mob, and they told him to go and curl his hair with it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/130588/957_130588_000071_000000.wav|"Manning!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132537/957_132537_000003_000000.wav|CHAPTER nine
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132537/957_132537_000009_000000.wav|Several weeks passed away in quiet retirement, and Emily's affliction began to soften into melancholy.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000008_000002.wav|It was in one of these moments of obscurity, that she observed a small and lambent flame, moving at some distance on the terrace.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000009_000000.wav|Emily, looking again upon the rampart, perceived the flame she had seen before; it moved onward; and, soon after, she thought she heard a footstep.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000009_000002.wav|It moved away, and then, by a gleam of lightning, she perceived some person on the terrace.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000009_000004.wav|This person advanced, and the playing flame alternately appeared and vanished.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000014_000000.wav|'This light, lady,' said the soldier, 'has appeared to night as you see it, on the point of my lance, ever since I have been on watch; but what it means I cannot tell.'
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000017_000000.wav|'How does your comrade account for it?' said Emily.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000019_000000.wav|'And what harm can it bode?' rejoined Emily.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000020_000000.wav|'He knows not so much as that, lady.'
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000023_000001.wav|There are amongst us, who believe strange things.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000032_000000.wav|Emily, at this recital, shed tears.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/957/132568/957_132568_000032_000001.wav|She had no doubt but that the violent change in the air, which the tempest produced, had effected this fatal one, on the exhausted frame of Madame Montoni.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000003_000000.wav|CHAPTER twenty
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000004_000000.wav|JANE REPORTS PROGRESS
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000005_000000.wav|Letter from the Honourable Jane Champion to Sir Deryck Brand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000007_000000.wav|My dear Deryck: My wires and post cards have not told you much beyond the fact of my safe arrival.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000007_000001.wav|Having been here a fortnight, I think it is time I sent you a report.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000008_000001.wav|She is making herself indispensable to the patient, and he turns to her with a completeness of confidence which causes her heart to swell with professional pride.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000009_000003.wav|And you, dear, clever doctor, are proved perfectly right in your diagnosis of the sentiment of the case.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000009_000006.wav|But how to make him realise this, is the puzzle.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000010_000004.wav|And behind come galloping the hosts of Pharaoh; chance, speeding on the wheels of circumstance.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000010_000007.wav|Dear wise old Boy, dare you undertake the role of Moses!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000012_000001.wav|I always thought it was made in five minutes, as wanted.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000013_000000.wav|But what a syntactical digression!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000013_000004.wav|By the way, I was quite unprepared to find him such a character.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000014_000000.wav|On the point of Nurse Rosemary's personal appearance, I found it best to be perfectly frank with the household.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000015_000002.wav|Simpson's expression of polite attention did not vary, and his only comment was: "Certainly, miss.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000016_000000.wav|Well, to continue my report.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000019_000004.wav|And a breath of the moors would be good for you. Also I have a little private plan, which depends largely for its fulfilment on your coming.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000019_000005.wav|Oh, Boy-come!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000021_000000.wav|Jeanette.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000023_000000.wav|Wimpole Street.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000024_000000.wav|My dear Jeanette: Certainly I will come.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000026_000000.wav|Still I am hopeful, nay, more than hopeful,--confident.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000026_000001.wav|Often of late, in connection with you, I have thought of the promise about all things working together for good.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000026_000004.wav|In all thy ways acknowledge Him, and He shall direct thy paths." Ancient marching orders, and simple; but true, and therefore eternal.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000027_000003.wav|We must avert such a catastrophe.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000029_000001.wav|And you so priceless!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000029_000003.wav|Trust me to prove it to him,--to my own satisfaction and his,--if I get the chance.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000030_000000.wav|Yours always devotedly,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000031_000000.wav|Deryck Brand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000032_000000.wav|From Sir Deryck Brand to dr Robert Mackenzie.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000033_000000.wav|Dear Mackenzie: Do you consider it to be advisable that I should shortly pay a visit to our patient at Gleneesh and give an opinion on his progress?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000034_000000.wav|I find I can make it possible to come north this week end.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000035_000000.wav|I hope you are satisfied with the nurse I sent up.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000036_000000.wav|Yours very faithfully,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000037_000000.wav|Deryck Brand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000038_000000.wav|From dr Robert Mackenzie to Sir Deryck Brand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000040_000001.wav|She may confide in you.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122544/968_122544_000040_000002.wav|She cannot quite bring herself to trust in
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000003_000000.wav|CHAPTER twenty one
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000004_000000.wav|HARD ON THE SECRETARY
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000005_000000.wav|Nurse Rosemary sat with her patient in the sunny library at Gleneesh.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000008_000001.wav|Deryck was coming. He had not failed her.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000010_000000.wav|"Quite right," said Nurse Rosemary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000011_000000.wav|"Because it was on one sheet.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000014_000000.wav|Nurse Rosemary laughed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000014_000001.wav|"You are getting on so fast, mr Dalmain, that soon we shall be able to keep no secrets.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000014_000002.wav|My letter was from-"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000015_000000.wav|"Oh, don't tell me," cried Garth quickly, putting out his hand in protest.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000015_000001.wav|"I had no idea of seeming curious as to your private correspondence, Miss Gray.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000015_000002.wav|Only it is such a pleasure to report progress to you in the things I manage to find out without being told."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000016_000000.wav|"But I meant to tell you anyway," said Nurse Rosemary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000016_000001.wav|"The letter is from Sir Deryck, and, amongst other things, he says he is coming up to see you next Saturday."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000017_000000.wav|"Ah, good!" said Garth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000017_000001.wav|"And what a change he will find!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000018_000000.wav|"No," said Nurse Rosemary, "not yet.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000018_000001.wav|But, mr Dalmain, I was wanting to ask whether you could spare me just during forty eight hours; and dr Brand's visit would be an excellent opportunity.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000018_000004.wav|dr Brand would read you Saturday's and Sunday's-Ah, I forgot; there is no Sunday post.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000019_000001.wav|"I should have liked that we three should have talked together.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000019_000002.wav|But no wonder you want a time off.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000019_000003.wav|Shall you be going far?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000020_000000.wav|"No; I have friends near by.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000021_000000.wav|"Yes," said Garth, reaching out his hand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000021_000001.wav|"Wait a minute.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000021_000004.wav|I don't want that.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000021_000005.wav|But kindly give me the rest."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000022_000000.wav|Nurse Rosemary took out the newspaper; then pushed the pile along, until it touched his hand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000023_000000.wav|Garth took them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000023_000001.wav|"What a lot!" he said, smiling in pleasurable anticipation.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000023_000004.wav|Kind old soul!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000023_000006.wav|It is always best to avoid classical allusions, especially if sacred, unless one has them accurately.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000024_000000.wav|He had been handling his letters, one by one; carefully fingering each, before laying it on the table beside him.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000024_000001.wav|He had just come to one written on foreign paper, and sealed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000024_000002.wav|He broke off his sentence abruptly, held the letter silently for a moment, then passed his fingers slowly over the seal.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000025_000000.wav|Nurse Rosemary watched him anxiously.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000025_000001.wav|He made no remark, but after a moment laid it down and took up the next.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000026_000000.wav|Then the usual order of proceedings commenced.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000027_000000.wav|Nurse Rosemary took up the first letter, read the postmark, and described the writing on the envelope.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000028_000000.wav|Nurse Rosemary's fingers shook as she replaced the eighth in its envelope.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000029_000000.wav|"Did I shoot straight, nurse?" he asked.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000031_000000.wav|"Quite straight," she said.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000031_000001.wav|"mr Dalmain, this letter has an Egyptian stamp, and the postmark is Cairo.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000031_000002.wav|It is sealed with scarlet sealing wax, and the engraving on the seal is a plumed helmet with the visor closed."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000032_000000.wav|"And the writing?" asked Garth, mechanically and very quietly.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000033_000000.wav|"The handwriting is rather bold and very clear, with no twirls or flourishes.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000033_000001.wav|It is written with a broad nib."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000035_000000.wav|Nurse Rosemary fought with her throat, which threatened to close altogether and stifle her voice.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000035_000001.wav|She opened the letter, turned to the last page, and found the signature.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000036_000000.wav|"It is signed 'Jane Champion,' mr Dalmain," said Nurse Rosemary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000038_000001.wav|If I were with you, there would be so much I could say; but writing is so difficult, so impossible.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000040_000000.wav|I hear you receive no visitors; but cannot you make just one exception, and let me come?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000041_000000.wav|I was at the Great Pyramid when I heard.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000041_000001.wav|I was sitting on the piazza after dinner.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000041_000002.wav|The moonlight called up memories.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000041_000004.wav|Would you have come, Garth?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000042_000000.wav|And now, my friend, as you cannot come to me, may I come to you?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000042_000001.wav|If you just say: "COME," I will come from any part of the world where I may chance to be when the message reaches me.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000042_000002.wav|Never mind this Egyptian address.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000042_000004.wav|Direct to me at my aunt's town house.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000043_000000.wav|LET ME COME.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000044_000000.wav|Believe me to be,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000045_000000.wav|Yours, more than I can write,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000046_000000.wav|Jane Champion.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000047_000000.wav|Garth removed the hand which had been shielding his face.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000048_000000.wav|"If you are not tired, Miss Gray, after reading so many letters, I should like to dictate my answer to that one immediately, while it is fresh in my mind.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000048_000001.wav|Have you paper there?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000048_000002.wav|Thank you.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000048_000003.wav|May we begin?-- Dear Miss Champion ...
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000048_000004.wav|I am deeply touched by your kind letter of sympathy ...
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000049_000000.wav|A long pause.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000050_000000.wav|"I am glad you did not give up the Nile trip but-"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000051_000000.wav|An early bee hummed in from the hyacinths and buzzed against the pane. Otherwise the room was very still.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000052_000000.wav|--"but of course, if you had sent for me I should have come."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000055_000000.wav|"It is more than kind of you to suggest coming to see me, but-"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000056_000000.wav|Nurse Rosemary dropped her pen.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000056_000001.wav|"Oh, mr Dalmain," she said, "let her come."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000057_000000.wav|Garth turned upon her a face of blank surprise.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000058_000000.wav|"I do not wish it," he said, in a tone of absolute finality.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000059_000000.wav|"But think how hard it must be for any one to want so much to be near a-a friend in trouble, and to be kept away."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000060_000000.wav|"It is only her wonderful kindness of heart makes her offer to come, Miss Gray.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000060_000002.wav|It would greatly sadden her to see me thus."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000061_000003.wav|Did I read it badly?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000062_000001.wav|He spoke with quiet sternness, a frown bending his straight black brows.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000063_000000.wav|"You read it quite well," he said, "but you do not do well to discuss it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000063_000001.wav|I must feel able to dictate my letters to my secretary, without having to explain them."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000064_000000.wav|"I beg your pardon, sir," said Nurse Rosemary humbly.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000065_000000.wav|Garth stretched his hand across the table, and left it there a moment; though no responsive hand was placed within it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000066_000000.wav|"Never mind," he said, with his winning smile, "my kind little mentor and guide.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000066_000001.wav|You can direct me in most things, but not in this.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000066_000002.wav|Now let us conclude.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000066_000003.wav|Where were we?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000002.wav|Now let us go on ...
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000004.wav|During the summer I shall be learning step by step to live this new life, in complete seclusion at Gleneesh.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000005.wav|I feel sure my friends will respect my wish in this matter.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000006.wav|I have with me one who most perfectly and patiently is helping-Ah, wait!" cried Garth suddenly.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000007.wav|"I will not say that.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000008.wav|She might think-she might misunderstand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000009.wav|Had you begun to write it?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000010.wav|No? What was the last word?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000068_000013.wav|Full stop after 'matter.' Now let me think."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000069_000000.wav|Garth dropped his face into his hands, and sat for a long time absorbed in thought.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000070_000000.wav|Nurse Rosemary waited.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000070_000001.wav|Her right hand held the pen poised over the paper.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000070_000002.wav|Her left was pressed against her breast.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000070_000004.wav|At last Garth lifted his face.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/968/122545/968_122545_000070_000005.wav|"Yours very sincerely, Garth Dalmain;" he said.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000016_000001.wav|Nightmare is caused by the nightmare man, a kind of evil spirit, struggling with one.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000019_000000.wav|Sty, sty, go off my eye, Go on the first one that passes by.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000021_000001.wav|To cure a sty repeat at a cross roads,--
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000024_000001.wav|Toothache may be cured by a written charm, sealed up and worn around the neck of the afflicted person.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000024_000002.wav|The following is a copy of the charm:--
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000026_000001.wav|For toothache take an eyelash, an eyebrow, trimmings of the finger nails, and toe nails of the patient, bore a hole in a beech tree, and put them in.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000029_000000.wav|WATER.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000034_000001.wav|Rain water caught the first of June will cure freckles.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000035_000001.wav|An Indian doctor used for inflammation of the eyes rain water caught on the third, fourth, and fifth of June.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000042_000001.wav|A variant,--
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000046_000002.wav|Another custom is to steadily point a finger at the hiccougher, or to make him hold up his arm and shake it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000054_000001.wav|For nose bleed, put a key down the back.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000055_000001.wav|For nose bleed, hold up the right arm.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128669/979_128669_000056_000001.wav|For nose bleed, place a wad of paper between the upper lip and the gum.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000004_000000.wav|CURES.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000009_000001.wav|If you find an old bone in the field, rub the wart with it, then lay it down exactly as you found it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000023_000001.wav|Warts are cured by stealing pork from the family barrel of salted pork, rubbing the warts with it, and throwing it into the road.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000026_000001.wav|Make a wart bleed, and put the blood on a penny, throw the latter away, and the finder will get the wart.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000031_000003.wav|Roll them in paper and throw them away.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000032_000001.wav|Go out of doors, count three, stop and pick up the stone nearest to your toe.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000032_000002.wav|Wrap it up in a paper, and throw it away.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000039_000001.wav|Take a potato and rub it over the wart, then wrap the potato in a piece of paper and throw it away.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128670/979_128670_000047_000002.wav|As the joints rot, the warts disappear.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000003_000001.wav|If your left ear itches, some one is saying unpleasant things about you; but if your right ear, pleasant things.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000003_000002.wav|Some say,--
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000013_000001.wav|If your nose itches, it is a sign of a present.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000022_000001.wav|Itching in the palm is a sign of a fight, or of seeing a stranger.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000023_000001.wav|An unexpected scratch denotes surprise.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000035_000000.wav|APPAREL.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128677/979_128677_000048_000001.wav|If you break your needle in making a dress, you will live to wear it out.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128678/979_128678_000008_000001.wav|On cutting the finger nails:--
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128678/979_128678_000027_000000.wav|DOMESTIC LIFE.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128678/979_128678_000031_000001.wav|Wet the finger and touch the "letter" on the candle.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128678/979_128678_000042_000001.wav|Sweep the floor after dark, you'll see sickness before morning.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/979/128678/979_128678_000056_000001.wav|If, when a newly married couple go to housekeeping, she slyly takes her mother's dish cloth or dish wiper, she will never be homesick.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000002_000000.wav|Mistress Mary, quite contrary, How does your garden grow? With dingle bells and cockle shells And cowslips, all in a row.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000005_000000.wav|"And how long will you be gone, papa?" asked Mary, who was perched upon her father's knee, where she could nestle her soft cheek against his bushy whiskers.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000006_000000.wav|"How long?" he repeated, stroking her curls tenderly as he spoke; "well, well, my darling, it will be a long time indeed!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000006_000001.wav|Do you know the cowslips that grow in the pastures, Mary?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000007_000000.wav|"Oh, yes; I watch for them every spring," she answered.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000008_000000.wav|"And do you know the dingle bells that grow near the edge of the wood?" he asked again.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000010_000000.wav|"And how about the cockle shells?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000011_000001.wav|But tell me, papa, what have the flowers to do with your coming home?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000012_000002.wav|So one more kiss, sweetheart, and then we must go, for our time is up."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000013_000000.wav|The next morning, when Mary and her mother had dried their eyes, which had been wet with grief at the departure of their loved ones, the little girl asked earnestly,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000014_000000.wav|"Mamma, may I make a flower garden?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000016_000000.wav|"I want to plant in it the cockle shells and the cowslips and the dingle bells," she answered.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000017_000000.wav|And her mother, who had heard what the sailor had said to his little girl, knew at once what Mary meant; so she kissed her daughter and replied,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000018_000000.wav|"Yes, Mary, you may have the flower garden, if you wish.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000018_000001.wav|We will dig a nice little bed just at the side of the house, and you shall plant your flowers and care for them yourself."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000019_000000.wav|"I think I 'd rather have the flowers at the front of the house," said Mary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000020_000000.wav|"But why?" enquired her mother; "they will be better sheltered at the side."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000021_000000.wav|"I want them in front," persisted Mary, "for the sun shines stronger there."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000023_000000.wav|"But I do n't want you to help," said Mary, "for this is to be my own little flower garden, and I want to do all the work myself."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000024_000000.wav|Now I must tell you that this little girl, although very sweet in many ways, had one serious fault.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000024_000001.wav|She was inclined to be a bit contrary, and put her own opinions and ideas before those of her elders.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000026_000000.wav|So Mary made a long, narrow bed at the front of the house, and then she prepared to plant her flowers.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000027_000000.wav|"If you scatter the seeds," said her mother, "the flower bed will look very pretty."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000030_000002.wav|And now I feel as if the flowers were really my dear ones, and I must be very careful that they come to no harm!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000031_000001.wav|They looked rather comical, all standing in stiff, straight rows, one after the other; but Mary did not mind that.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000032_000000.wav|While she was working she heard the tramp of a horse's hoofs, and looking up saw the big bluff Squire riding toward her.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000032_000001.wav|The big Squire was very fond of children, and whenever he rode near the little white cottage he stopped to have a word with Mary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000034_000000.wav|Then he said to her in rhyme (for it was a way of speaking the jolly Squire had),
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000035_000000.wav|"Mistress Mary, so contrary, How does your garden grow? With dingle bells and cockle shells And cowslips all in a row!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000036_000000.wav|And Mary, being a sharp little girl, and knowing the Squire's queer ways, replied to him likewise in rhyme, saying,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000037_000000.wav|"I thank you, Squire, that you enquire How well the flowers are growing; The dingle bells and cockle shells And cowslips all are blowing!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000040_000000.wav|"That is a long story, Squire," said Mary; "but this much I may tell you,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000043_000000.wav|"Oh, that 's the idea, is it?" asked the big bluff Squire, forgetting his poetry.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000043_000002.wav|I shall come and see you again, little one, and watch the garden grow." And then he said "gee up" to his gray mare, and rode away.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000044_000000.wav|The very next day, to Mary's great surprise and grief; she found the leaves of the dingle bells curling and beginning to wither.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000045_000000.wav|"Oh, mamma," she called, "come quick!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000045_000001.wav|Something is surely the matter with brother Hobart!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000046_000001.wav|If you had planted them at the side of the house, as I wished you to, the wind would not have killed them."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000048_000000.wav|While she sat thus the Squire rode up, and called to her
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000049_000000.wav|"Fie, Mary, fie!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000049_000001.wav|Why do you cry; And blind your eyes to knowing How dingle bells and cockle shells And cowslips all are growing?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000051_000000.wav|"Nonsense!" said the Squire; "because you named the flowers after your brother Hobart is no reason he should be affected by the fading of the dingle bells.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000051_000002.wav|Dingle bells are delicate.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000053_000000.wav|The weather now began to change, and the cold sea winds blew each night over Mary's garden.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000054_000000.wav|One day Mary came into the house where her mother was at work and said, gleefully,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000056_000000.wav|"Why do you think so?" asked her mother.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000058_000000.wav|Mary's mother knew that the harsh winds had killed the flowers before their time, but she did not like to disappoint her darling, so she only said, with a sigh,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000059_000000.wav|"I hope you are right, Mary, for we both shall be glad to welcome our dear ones home again."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000061_000000.wav|"Pray tell me, dear, though much I fear The answer sad I know, How grow the sturdy cockle shells And cowslips, all in a row?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000062_000000.wav|And Mary looked up at him with her bright smile and answered,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000064_000001.wav|See here, Mary, how would you like a little ride with me on my nag?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000065_000000.wav|"I would like it very much, sir," replied Mary.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000066_000000.wav|"Then reach up your hand.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000068_000001.wav|Then said the Squire,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000069_000000.wav|"Take a look within that nook And tell me what is there."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000070_000000.wav|And Mary exclaimed,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000071_000000.wav|"A dingle bell, and truth to tell In full bloom, I declare!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000072_000000.wav|The Squire now clucked to his nag, and as they rode away he said,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000073_000000.wav|"Now come with me and you shall see A field with cowslips bright And not a garden in the land Can show so fair a sight."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000077_000000.wav|This was indeed true, and as Mary saw them she suddenly dropped her head and began to weep.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000078_000000.wav|"What 's the matter, little one?" asked the Squire in his kind, bluff voice.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000078_000001.wav|And Mary answered,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000079_000000.wav|"Although the flowers I much admire, You know papa did say He won't be home again, Squire, Till all have passed away."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000080_000002.wav|Your father meant you to watch the flowers in the field; and if you will come and visit them each day, you will find the time waiting very short indeed."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000081_000000.wav|Mary dried her eyes and thanked the kindly old Squire, and after that she visited the fields each day and watched the flowers grow.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000083_000000.wav|And soon after, when Mary had been hugged by her two sunburned brothers and was clasped in her father's strong arms, she whispered,
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000084_000000.wav|"I knew you were coming soon, papa."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000085_000000.wav|"And how did you know, sweetheart?" he asked, giving her an extra kiss.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/121658/98_121658_000086_000001.wav|And did you not say that, God willing, when this happened you would come back to us?"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000002_000000.wav|CHAPTER two
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000004_000000.wav|When the hour of departure drew near, the maternal anxiety of mrs Morland will be naturally supposed to be most severe.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000004_000003.wav|Who would not think so?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000004_000005.wav|Her cautions were confined to the following points.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000006_000000.wav|Under these unpromising auspices, the parting took place, and the journey began.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000006_000001.wav|It was performed with suitable quietness and uneventful safety.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000006_000002.wav|Neither robbers nor tempests befriended them, nor one lucky overturn to introduce them to the hero.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000007_000000.wav|They arrived at Bath.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000007_000002.wav|She was come to be happy, and she felt happy already.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000010_000001.wav|She had neither beauty, genius, accomplishment, nor manner.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000010_000004.wav|Dress was her passion.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000010_000008.wav|With such encouragement, Catherine hoped at least to pass uncensured through the crowd.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000010_000009.wav|As for admiration, it was always very welcome when it came, but she did not depend on it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000011_000001.wav|The season was full, the room crowded, and the two ladies squeezed in as well as they could.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000012_000000.wav|They were not long able, however, to enjoy the repose of the eminence they had so laboriously gained.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000012_000001.wav|Everybody was shortly in motion for tea, and they must squeeze out like the rest.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000013_000000.wav|mrs Allen congratulated herself, as soon as they were seated, on having preserved her gown from injury.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000014_000000.wav|"How uncomfortable it is," whispered Catherine, "not to have a single acquaintance here!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000015_000000.wav|"Yes, my dear," replied mrs Allen, with perfect serenity, "it is very uncomfortable indeed."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000016_000000.wav|"What shall we do?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000016_000001.wav|The gentlemen and ladies at this table look as if they wondered why we came here-we seem forcing ourselves into their party."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000017_000000.wav|"Aye, so we do.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000017_000002.wav|I wish we had a large acquaintance here."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000018_000000.wav|"I wish we had any-it would be somebody to go to."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000019_000000.wav|"Very true, my dear; and if we knew anybody we would join them directly. The Skinners were here last year-I wish they were here now."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000020_000001.wav|Here are no tea things for us, you see."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000021_000000.wav|"No more there are, indeed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000021_000001.wav|How very provoking!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000021_000002.wav|But I think we had better sit still, for one gets so tumbled in such a crowd!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000021_000004.wav|Somebody gave me a push that has hurt it, I am afraid."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000022_000000.wav|"No, indeed, it looks very nice.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000022_000002.wav|I think you must know somebody."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000023_000000.wav|"I don't, upon my word-I wish I did.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000023_000001.wav|I wish I had a large acquaintance here with all my heart, and then I should get you a partner.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000023_000002.wav|I should be so glad to have you dance.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000023_000005.wav|How old-fashioned it is!
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000023_000006.wav|Look at the back."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000025_000000.wav|"Well, Miss Morland," said he, directly, "I hope you have had an agreeable ball."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000026_000000.wav|"Very agreeable indeed," she replied, vainly endeavouring to hide a great yawn.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000027_000000.wav|"I wish she had been able to dance," said his wife; "I wish we could have got a partner for her.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000027_000001.wav|I have been saying how glad I should be if the Skinners were here this winter instead of last; or if the Parrys had come, as they talked of once, she might have danced with George Parry.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000027_000002.wav|I am so sorry she has not had a partner!"
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000028_000000.wav|"We shall do better another evening I hope," was mr Allen's consolation.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000029_000001.wav|Every five minutes, by removing some of the crowd, gave greater openings for her charms.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000029_000002.wav|She was now seen by many young men who had not been near her before.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000029_000004.wav|Yet Catherine was in very good looks, and had the company only seen her three years before, they would now have thought her exceedingly handsome.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/98/199/98_199_000030_000000.wav|She was looked at, however, and with some admiration; for, in her own hearing, two gentlemen pronounced her to be a pretty girl.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000000_000000.wav|This is a LibriVox recording.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000000_000001.wav|All LibriVox recordings are in the public domain.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000013_000000.wav|PREFACE
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000014_000000.wav|This book is meant to be a companion to "Heretics," and to put the positive side in addition to the negative.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000014_000004.wav|While everything else may be different the motive in both cases is the same.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000014_000007.wav|But if it is not that it is at least a repeated and surprising coincidence.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000015_000000.wav|Gilbert k Chesterton.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000020_000000.wav|THE only possible excuse for this book is that it is an answer to a challenge.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000020_000004.wav|I will not call it my philosophy; for I did not make it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000021_000004.wav|What could be more delightful than to have in the same few minutes all the fascinating terrors of going abroad combined with all the humane security of coming home again?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000021_000005.wav|What could be better than to have all the fun of discovering South Africa without the disgusting necessity of landing there?
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000022_000002.wav|For the very word "romance" has in it the mystery and ancient meaning of Rome. Any one setting out to dispute anything ought always to begin by saying what he does not dispute.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000022_000007.wav|We need to be happy in this wonderland without once being merely comfortable. It is THIS achievement of my creed that I shall chiefly pursue in these pages.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000023_000000.wav|But I have a peculiar reason for mentioning the man in a yacht, who discovered England.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000023_000002.wav|I do not see how this book can avoid being egotistical; and I do not quite see (to tell the truth) how it can avoid being dull.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000023_000006.wav|I never in my life said anything merely because I thought it funny; though of course, I have had ordinary human vainglory, and may have thought it funny because I had said it.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000024_000002.wav|I freely confess all the idiotic ambitions of the end of the nineteenth century.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000024_000004.wav|Like them I tried to be some ten minutes in advance of the truth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000024_000007.wav|And I was punished in the fittest and funniest way, for I have kept my truths: but I have discovered, not that they were not truths, but simply that they were not mine.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000024_000009.wav|The man from the yacht thought he was the first to find England; I thought I was the first to find Europe.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000024_000010.wav|I did try to found a heresy of my own; and when I had put the last touches to it, I discovered that it was orthodoxy.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000026_000000.wav|I add one purely pedantic note which comes, as a note naturally should, at the beginning of the book.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000026_000002.wav|They are not intended to discuss the very fascinating but quite different question of what is the present seat of authority for the proclamation of that creed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137141/984_137141_000026_000005.wav|This is not an ecclesiastical treatise but a sort of slovenly autobiography.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000002_000000.wav|It is customary to complain of the bustle and strenuousness of our epoch.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000002_000001.wav|But in truth the chief mark of our epoch is a profound laziness and fatigue; and the fact is that the real laziness is the cause of the apparent bustle.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000002_000005.wav|We know they are carrying thousands who are too tired or too indolent to walk and think for themselves.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000002_000007.wav|But if you begin "I wish Jones to go to gaol and Brown to say when Jones shall come out," you will discover, with a thrill of horror, that you are obliged to think.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000002_000008.wav|The long words are not the hard words, it is the short words that are hard.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000004_000000.wav|A confusion quite as unmeaning as this has arisen in connection with the word "liberal" as applied to religion and as applied to politics and society.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000004_000001.wav|It is often suggested that all Liberals ought to be freethinkers, because they ought to love everything that is free.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000004_000003.wav|The thing is a mere accident of words.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000004_000004.wav|In actual modern Europe a freethinker does not mean a man who thinks for himself.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000005_000001.wav|Almost every contemporary proposal to bring freedom into the church is simply a proposal to bring tyranny into the world.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000005_000002.wav|For freeing the church now does not even mean freeing it in all directions.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000005_000005.wav|I may, it is true, twist orthodoxy so as partly to justify a tyrant. But I can easily make up a German philosophy to justify him entirely.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000006_000001.wav|We concluded the last chapter with the discovery of one of them.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000007_000010.wav|Tennyson, a very typical nineteenth century man, uttered one of the instinctive truisms of his contemporaries when he said that there was faith in their honest doubt.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000007_000011.wav|There was indeed. Those words have a profound and even a horrible truth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000008_000005.wav|A miracle only means the liberty of God. You may conscientiously deny either of them, but you cannot call your denial a triumph of the liberal idea.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000008_000008.wav|And those who assist this process are called the "liberal theologians."
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000009_000001.wav|But if he can believe in miracles, he is certainly the more liberal for doing so; because they mean first, the freedom of the soul, and secondly, its control over the tyranny of circumstance.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000010_000000.wav|But I must pass on to the larger cases of this curious error; the notion that the "liberalising" of religion in some way helps the liberation of the world.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000011_000000.wav|The things said most confidently by advanced persons to crowded audiences are generally those quite opposite to the fact; it is actually our truisms that are untrue.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000011_000004.wav|You may walk round and round them and subject them to the most personal and offensive study without seeing anything Swedenborgian in the hat or anything particularly godless in the umbrella.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000011_000009.wav|Creeds that exist to destroy each other both have scriptures, just as armies that exist to destroy each other both have guns.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000012_000002.wav|But in the case of the great religion of Gautama they feel sincerely a similarity.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000013_000000.wav|Students of popular science, like mr Blatchford, are always insisting that Christianity and Buddhism are very much alike, especially Buddhism.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000013_000002.wav|The author solemnly explained that the two creeds were alike in things in which all creeds are alike, or else he described them as alike in some point in which they are quite obviously different.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000013_000003.wav|Thus, as a case of the first class, he said that both Christ and Buddha were called by the divine voice coming out of the sky, as if you would expect the divine voice to come out of the coal cellar.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000013_000005.wav|You might as well say that it was a remarkable coincidence that they both had feet to wash.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000013_000007.wav|It is rather like alluding to the obvious connection between the two ceremonies of the sword: when it taps a man's shoulder, and when it cuts off his head.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/984/137154/984_137154_000013_000008.wav|It is not at all similar for the man.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000002_000004.wav|The sight greatly staggered him, and he was so affected that his account of it was incoherent.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000002_000007.wav|He had seen the abduction been in pursuit of the fairies.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000002_000009.wav|He does not say if any of the wounded recovered.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000005_000001.wav|Well, his grill has a plating of gold, And his twistings are greatly admired.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000009_000000.wav|Each dropped one eyelid when before The throne he ventured, thinking 'Twould please the king.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000009_000001.wav|That monarch swore He'd slay them all for winking.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000010_000001.wav|They were not hot To hazard such disaster; They dared not close an eye-dared not See better than their master.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000012_000000.wav|The court all wore the stuff, the flame Of royal anger dying. That's how court plaster got its name Unless I'm greatly lying.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000014_000001.wav|A festival.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000015_000001.wav|A person of greater enterprise than discretion, who in embracing an opportunity has formed an unfortunate attachment.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000019_000001.wav|A lie that has not cut its teeth.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000022_000001.wav|The iterated satiety of an enterprising affection.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000026_000001.wav|A virtue peculiar to those who are about to be betrayed.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000029_000001.wav|The Second Person of the secular Trinity.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000036_000004.wav|He created patriotism and taught the nations war-founded theology, philosophy, law, medicine and Chicago.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000059_000000.wav|Armit Huff Bettle
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000060_000005.wav|The frog is a diligent songster, having a good voice but no ear.
+/home/scpark/ai/datasets/LibriTTS/train-clean-360/986/129388/986_129388_000067_000000.wav|Jex Wopley
